@@ -1,11 +1,10 @@
 # folders 
-.config/
 node_modules/
 public/
 __archive/
 
 #files 
-
+.config
 .DS_Store
 Thumbs.db
 db.json

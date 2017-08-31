@@ -1,0 +1,9 @@
+#!/bin/bash
+FTP_HOST=''
+FTP_LOGIN=''
+FTP_PASSWORD=''
+FTP_PATH='/blog/'
+
+GIT_CREDENTIAL='https://Username:password@github.com'
+
+PATH_PUBLIC='./public'

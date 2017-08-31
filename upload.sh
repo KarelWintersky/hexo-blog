@@ -1,13 +1,7 @@
 #!/bin/bash
-### .config file is:
-##!/bin/bash
-# FTP_HOST=''
-# FTP_LOGIN=''
-# FTP_PASSWORD=''
-# FTP_PATH=''
+# Used config file
 
-source .config/.config-private
-source .config/.config-public
+source .config
 
 # Generate static files
 
