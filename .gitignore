@@ -1,9 +1,12 @@
-.config
+# folders 
+.config/
+node_modules/
+public/
+__archive/
+
+#files 
+
 .DS_Store
 Thumbs.db
 db.json
 *.log
-node_modules/
-public/
-__archive/
-.deploy*/

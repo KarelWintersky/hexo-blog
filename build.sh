@@ -6,8 +6,8 @@
 # FTP_PASSWORD=''
 # FTP_PATH=''
 
-source .config
-PATH_PUBLIC='./public'
+source .config/.config-private
+source .config/.config-public
 
 # Generate static files
 
